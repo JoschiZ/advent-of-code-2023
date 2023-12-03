@@ -3,5 +3,7 @@
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::3916DE26-FE7C-4525-AB8B-65C0C50E8697::net8.0::AoC2023.Tests.Day1.Should_Extract_Transformed_String&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::3916DE26-FE7C-4525-AB8B-65C0C50E8697::net8.0::AoC2023.Tests.Day2.Should_Parse_Correctly&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3916DE26-FE7C-4525-AB8B-65C0C50E8697::net8.0::AoC2023.Tests.Day3.ShouldSolveDay3First&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3916DE26-FE7C-4525-AB8B-65C0C50E8697::net8.0::AoC2023.Tests.Day3.ShouldSolveDay3Second&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
