@@ -12,7 +12,7 @@ public partial class Day1
     
     public static int SolveDay1First()
     {
-        var inputFile = new FileInfo(Path.Combine(Directory.GetCurrentDirectory(), "1/First.txt"));
+        var inputFile = new FileInfo(Path.Combine(Directory.GetCurrentDirectory(), "DayOne/First.txt"));
         
 
         var overallCount = 0;
@@ -26,7 +26,7 @@ public partial class Day1
     
     public static int SolveDay1Second()
     {
-        var inputFile = new FileInfo(Path.Combine(Directory.GetCurrentDirectory(), "1/Second.txt"));
+        var inputFile = new FileInfo(Path.Combine(Directory.GetCurrentDirectory(), "DayOne/Second.txt"));
 
 
         return inputFile
