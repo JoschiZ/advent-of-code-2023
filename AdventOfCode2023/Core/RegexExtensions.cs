@@ -25,6 +25,10 @@ public static class RegexExtensions
     public static IEnumerable<int> ExtractNumbers(this Regex regex, string input)
     {
         var matches = regex.Matches(input);
-        return matches.Select(match => int.Parse(match.ToString()));
+
+        foreach (Match match in matches)
+        {
+            yield return int.Parse(match.ToString());
+        }
     }
 }
