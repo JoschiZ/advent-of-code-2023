@@ -1,3 +1,5 @@
+using Xunit;
+
 namespace AoC2023.Tests;
 
 public class Day2

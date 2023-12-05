@@ -1,11 +1,8 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ba7a0fb0_002D8d96_002D4f5c_002Da1e4_002D1f838b32bc96/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Should_Extract_Transformed_String" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::3916DE26-FE7C-4525-AB8B-65C0C50E8697::net8.0::AoC2023.Tests.Day1.Should_Extract_Transformed_String&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::3916DE26-FE7C-4525-AB8B-65C0C50E8697::net8.0::AoC2023.Tests.Day2.Should_Parse_Correctly&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::3916DE26-FE7C-4525-AB8B-65C0C50E8697::net8.0::AoC2023.Tests.Day3.ShouldSolveDay3First&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::3916DE26-FE7C-4525-AB8B-65C0C50E8697::net8.0::AoC2023.Tests.Day3.ShouldSolveDay3Second&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::3916DE26-FE7C-4525-AB8B-65C0C50E8697::net8.0::AoC2023.Tests.Day4.Should_Calculate_Correct_Points&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::3916DE26-FE7C-4525-AB8B-65C0C50E8697::net8.0::AoC2023.Tests.Day4.Should_Solve_Second&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\josch\AppData\Local\JetBrains\Rider2023.3\resharper-host\temp\Rider\vAny\CoverageData\_AdventOfCode2023.-76575534\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c840dba4_002D772c_002D4707_002Da6d5_002Dad27994133df/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;And&gt;&#xD;
+    &lt;Namespace&gt;AoC2023.Tests&lt;/Namespace&gt;&#xD;
+    &lt;Project Location="F:\Programming\DotNET\Net8\AdventOfCode2023\AoC2023.Tests" Presentation="&amp;lt;AoC2023.Tests&amp;gt;" /&gt;&#xD;
+  &lt;/And&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

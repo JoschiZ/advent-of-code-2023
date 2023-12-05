@@ -31,4 +31,14 @@ public static class RegexExtensions
             yield return int.Parse(match.ToString());
         }
     }
+    
+    public static IEnumerable<long> ExtractBigNumbers(this Regex regex, string input)
+    {
+        var matches = regex.Matches(input);
+
+        foreach (Match match in matches)
+        {
+            yield return long.Parse(match.ToString());
+        }
+    }
 }
