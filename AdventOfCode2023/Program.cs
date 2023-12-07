@@ -25,4 +25,5 @@ using AdventOfCode2023.DayTwo;
 //Console.WriteLine("Result: " + Day6.SolveFirst());
 //Console.WriteLine("Result: " + Day6.SolveSecond());
 
-Console.WriteLine("Result: " + Day7.SolveFirst());
+//Console.WriteLine("Result: " + Day7.SolveFirst());
+Console.WriteLine("Result: " + Day7.SolveSecond());

@@ -10,11 +10,11 @@ public partial class Day7
     {
         public SortedList<Hand, Hand> Hands { get; } = new();
 
-        public Game(IEnumerable<string> input)
+        public Game(IEnumerable<string> input, bool ignoreJokers)
         {
             foreach (var inputString in input)
             {
-                var newHand = Hand.CreateHand(inputString);
+                var newHand = Hand.CreateHand(inputString, ignoreJokers);
                 Hands.Add(newHand, newHand);
             }
         }
