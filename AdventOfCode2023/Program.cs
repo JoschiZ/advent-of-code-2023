@@ -1,4 +1,5 @@
 ﻿using AdventOfCode2023._1;
+using AdventOfCode2023.DayEight;
 using AdventOfCode2023.DayFive;
 using AdventOfCode2023.DayFour;
 using AdventOfCode2023.DaySeven;
@@ -26,4 +27,7 @@ using AdventOfCode2023.DayTwo;
 //Console.WriteLine("Result: " + Day6.SolveSecond());
 
 //Console.WriteLine("Result: " + Day7.SolveFirst());
-Console.WriteLine("Result: " + Day7.SolveSecond());
+//Console.WriteLine("Result: " + Day7.SolveSecond());
+
+//Console.WriteLine("Result: " + Day8.SolveFirst());
+Console.WriteLine("Result: " + Day8.SolveSecond());
